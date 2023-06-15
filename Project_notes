@@ -1,0 +1,43 @@
+NashvilleHousing Data clean
+
+In this small project focused on housing data in SQL Server Management Studio, 
+I have demonstrated several key data cleaning and manipulation techniques. 
+Here are a few thoughts to highlight in my portfolio:
+
+Data Standardization: I showcased my ability to standardize date formats using the CONVERT 
+function. This highlights my attention to detail and the importance of consistent 
+data representation.
+
+Data Cleansing: By populating missing property addresses using the ISNULL and UPDATE statements,
+I demonstrated my skills in handling missing data and ensuring data completeness.
+
+Data Transformation: Breaking down the property address into individual columns
+(address, city, state) using string functions like SUBSTRING showcases my ability to
+transform data into a more structured format, making it easier for analysis and reporting.
+
+Parsing and Splitting: Parsing the owner address and splitting it into separate columns 
+(address, city, state) using PARSENAME and UPDATE statements highlights my proficiency 
+in extracting relevant information from a given field.
+
+Data Quality Enhancement: Changing 'Y' and 'N' values in the 'Sold as Vacant' 
+field to 'Yes' and 'No' using a CASE statement demonstrates my commitment to improving 
+data quality and making it more user-friendly.
+
+Data Deduplication: Utilizing the ROW_NUMBER function and a common table expression (CTE), 
+I effectively identified and removed duplicate records from the dataset. 
+This showcases my ability to ensure data integrity and maintain a clean database.
+
+Database Optimization: By removing unused columns using the ALTER TABLE statement,
+I demonstrated my understanding of database optimization and the importance of 
+efficient data storage.
+
+Overall, this project highlights my expertise in data cleaning, transformation,
+and database management using SQL Server Management Studio. 
+It showcases my attention to detail, ability to handle missing data, and dedication to 
+enhancing data quality. These skills make me a valuable asset in any data-related role, 
+and I believe they should be highlighted in my portfolio to showcase my proficiency 
+in data manipulation and database management.
+
+
+
+
