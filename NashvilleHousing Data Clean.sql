@@ -1,3 +1,4 @@
+
 --CLeaning Data in SQL Queries
 
 Select *
